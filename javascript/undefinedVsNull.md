@@ -40,7 +40,7 @@ console.log(a == undefined) // true
 
 Then we can say that null == undefined:
 
-```
+```javascript
 console.log(null == undefined) // true
 ```
 
@@ -48,7 +48,7 @@ This happens because we are using the non-strict operator (==) and we are evalua
 
 If we strict compare null with undefined we get:
 
-```
+```javascript
 console.log(null === undefined) // false
 ```
 
