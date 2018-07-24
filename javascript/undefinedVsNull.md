@@ -6,7 +6,7 @@ According to google:
 
 Let's see if this guy is telling the truth:
 
-```
+```javascript
 console.log(typeof null) // 'object'
 console.log(typeof undefined) // 'undefined'
 ```
